@@ -1,5 +1,3 @@
-source "https://rubygems.org"
-gem "jekyll-feed"
-gem "jekyll"
-gem "jekyll-theme-clean-blog"
-
+source 'https://rubygems.org'
+gem 'rouge'
+gem 'github-pages', group: :jekyll_plugins
