@@ -8,9 +8,9 @@ cover:  "/assets/code.png"
 tags:	chmod linux
 ---
 
-chmod is a linux command which is the abbreviation of change mode. It is used manually  change the  permission of a file
+chmod is a linux command which is the abbreviation of change mode. It is used manually  change the  permission of a file.
 
-a file permmission determines wheter a class **(owner/group/others)** can perform an action **(read/write/execute)**
+A file permmission determines wheter a class **(owner/group/others)** can perform an action **(read/write/execute)**
 
 Different classes 
  * **owner**  determines the user  
