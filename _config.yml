@@ -10,17 +10,17 @@ exclude:
 
 # Site settings
 title: chmod777
-subtitle: "A github static page using jekyll"
+subtitle: "."
 email: chmod777@gmail.com
 name: chmod777
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  power lies in chmod.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://chmod777-in.github.io" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
+cover: "/assets/code.png"
 logo: "/assets/logo.png"
 
 # Build settings
@@ -49,7 +49,7 @@ ga_tracking_id: "UA-135067563-1"
 # Category descriptions (for archive pages)
 descriptions:
   - cat: tech
-    desc: "."
+    desc: "Tech blogs"
 
 # Social icons and sharing options
 #
